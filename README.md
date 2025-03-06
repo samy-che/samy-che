@@ -5,9 +5,9 @@
 <h2 align="center">Computer science student at Paris Dauphine-PSL University</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 💼 &nbsp; Want to become a Project Manager.
+- 💼 &nbsp; My professional goal is to become an IT project manager.
 - 🌱 &nbsp; Learning more about Machine learning, Data engennering and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
