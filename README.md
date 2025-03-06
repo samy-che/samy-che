@@ -3,8 +3,6 @@
 </h1>
 
 <h2 align="center">Computer science student at Paris Dauphine-PSL University</h2>
-<br>
-<br/>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -49,12 +47,7 @@
   
 <br>
 <br/>
-<a href="https://github.com/samy-che">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samy-che&theme=buefy&show_icons=true" />
-  <br>
-<br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-che&theme=buefy&layout=compact" />
-
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=samy-che&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </a>
 <br/>
 <br/>
